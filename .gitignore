@@ -1,0 +1,13 @@
+# Sirve para guardar información sensible
+config.properties
+.env
+
+#intellij
+.idea/
+*.iml
+
+#Maven y archivos generales
+target/
+*.class
+*.log
+

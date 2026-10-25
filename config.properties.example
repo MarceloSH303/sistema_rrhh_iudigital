@@ -1,0 +1,9 @@
+# Copie este archivo como "config.properties" en la raíz del proyecto
+# (al lado del pom.xml) y complete sus datos.
+#
+# config.properties está en el .gitignore: NUNCA lo suba a GitHub.
+# Si la contraseña lleva el carácter \ escríbalo doble (\\).
+
+db.url=jdbc:postgresql://localhost:5432/recursos_humanos
+db.user=app_rrhh
+db.password=PON_AQUI_TU_CLAVE
